@@ -1,0 +1,10 @@
+.primary {
+  background: #c64a3b;
+}
+
+.button {
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
