@@ -2,7 +2,7 @@ import MainLayout from "./../layouts/MainLayout";
 import Head from "next/head";
 import MainPage from "../components/main-page/MainPage";
 
-export default function Home() {
+const Home = () => {
   return (
     <MainLayout>
       <Head>
@@ -12,3 +12,5 @@ export default function Home() {
     </MainLayout>
   )
 }
+
+export default Home;
