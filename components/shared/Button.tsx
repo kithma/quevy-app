@@ -1,5 +1,5 @@
 import React from "react";
-import sharedStyles from "./Shared.module.css";
+import sharedStyles from "./../../styles/Shared.module.css";
 
 type ButtonType = "primary" | "secondary"
 
